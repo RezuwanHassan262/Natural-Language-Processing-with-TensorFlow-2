@@ -1,0 +1,2 @@
+# Natural-Language-Processing-with-TensorFlow-2
+I did this "freeCodeCamp.org" on youtube and these are the codes I wrote while doing the course. Each notebook is a project and the 3 preojects are,  1. Getting Started with Word Embeddings 2. Performing sentiment analysis on movie reviews and text classification using an RNN 3. After reading a "Shakespear" snippet, The model generates similar styled text using an RNN
